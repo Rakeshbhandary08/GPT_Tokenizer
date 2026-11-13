@@ -13,4 +13,3 @@ response=client.interactions.create(
 )
 
 print(response.output_text)
-print("MADHARCHOD")
